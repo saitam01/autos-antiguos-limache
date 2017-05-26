@@ -13,12 +13,24 @@ app.get('/', function(request, response) {
   response.render('pages/index');
 });
 
-app.get('/inside-page', function(request, response) {
-  response.render('pages/inside_page');
+app.get('/about', function(request, response) {
+  response.render('pages/about');
 });
 
-app.get('/elements', function(request, response) {
-    response.render('pages/elements');
+app.get('/blog', function(request, response) {
+    response.render('pages/blog');
+});
+
+app.get('/contact', function(request, response) {
+    response.render('pages/contact');
+});
+
+app.get('/services', function(request, response) {
+    response.render('pages/services');
+});
+
+app.get('/gallery', function(request, response) {
+    response.render('pages/gallery');
 });
 
 app.listen(app.get('port'), function() {
