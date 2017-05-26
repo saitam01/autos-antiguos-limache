@@ -44,7 +44,7 @@ a#toTop{
 }
 /*-- header_top --*/
 .banner{
-	background:url(../images/bg3.jpg) no-repeat 0px -120px;
+	background:url(../images/1964-austin-mini-cooper-mini.jpg) no-repeat 0px -120px;
 	background-size:cover;
 	min-height:800px;
 }
@@ -898,7 +898,7 @@ a i.google:hover {
 }
 /*--ABOUT--*/
 .banner2{
-	  background: url(../images/bg3.jpg) no-repeat 0px -192px;
+	  background: url(../images/1964-austin-mini-cooper-mini.jpg) no-repeat 0px -192px;
   background-size: cover;
   min-height: 300px;
 }
@@ -1477,7 +1477,7 @@ figure.effect-hera:hover p i:empty {
 /*--responsive--*/
 @media (max-width: 1024px){
 .banner {
-  background: url(../images/bg3.jpg) no-repeat -205px -133px;
+  background: url(../images/1964-austin-mini-cooper-mini.jpg) no-repeat -205px -133px;
   min-height: 570px;
 }
 .banner-info h3 {
@@ -1550,7 +1550,7 @@ figure.effect-hera:hover p i:empty {
   font-size: 0.8em;
 }
 .banner2 {
-  background:url(../images/bg3.jpg) no-repeat 0px -192px;
+  background:url(../images/1964-austin-mini-cooper-mini.jpg) no-repeat 0px -192px;
  min-height: 240px;
  padding-bottom: 0;
 }
@@ -1925,7 +1925,7 @@ padding-right: 0;
   line-height: 1em;
 }
 .banner {
-background: url(../images/bg3.jpg) no-repeat -161px 0px;
+background: url(../images/1964-austin-mini-cooper-mini.jpg) no-repeat -161px 0px;
 min-height: 452px;
 background-size: cover;
 }
@@ -2174,7 +2174,7 @@ a.more {
   font-size: 0.8em;
 }
 .banner {
-  background: url(../images/bg3.jpg) no-repeat -144px 0px;
+  background: url(../images/1964-austin-mini-cooper-mini.jpg) no-repeat -144px 0px;
   min-height: 344px;
   background-size: cover;
 }
