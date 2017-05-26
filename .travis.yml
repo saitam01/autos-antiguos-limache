@@ -9,5 +9,4 @@ deploy:
 app: autos-antiguos-limache
 
 before_script:
-  - npm install -g gulp
-script: gulp
+  - npm install
