@@ -24,25 +24,12 @@
                 }
             }
         });
-
-    });
-</script>
-
-<script>
-    $(function () {
         $("#slider2").responsiveSlides({
             auto: true,
             speed: 500,
             namespace: "callbacks2",
             pager: true,
         });
-    });
-</script>
-
-<script>
-    // You can also use "$(window).load(function() {"
-    $(function () {
-        // Slideshow 4
         $("#slider3,#slider2").responsiveSlides({
             auto: true,
             pager: true,
@@ -56,6 +43,8 @@
                 $('.events').append("<li>after event fired.</li>");
             }
         });
-
+        if(activePage === 'index') {
+          
+        }
     });
 </script>
